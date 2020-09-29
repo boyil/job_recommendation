@@ -1,1 +1,1 @@
-# A Webpage for Job Search and Recommendation
+# Job+: A Personalized Job Search / Recommendation Engine
